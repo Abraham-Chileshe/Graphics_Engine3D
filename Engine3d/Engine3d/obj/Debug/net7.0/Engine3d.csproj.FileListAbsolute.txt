@@ -1,0 +1,15 @@
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.csproj.AssemblyReference.cache
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.AssemblyInfoInputs.cache
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.AssemblyInfo.cs
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.csproj.CoreCompileInputs.cache
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\bin\Debug\net7.0\Engine3d.exe
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\bin\Debug\net7.0\Engine3d.deps.json
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\bin\Debug\net7.0\Engine3d.runtimeconfig.json
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\bin\Debug\net7.0\Engine3d.dll
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\bin\Debug\net7.0\Engine3d.pdb
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.dll
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\refint\Engine3d.dll
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.pdb
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\Engine3d.genruntimeconfig.cache
+C:\Users\achil\RiderProjects\Engine3d\Engine3d\obj\Debug\net7.0\ref\Engine3d.dll
